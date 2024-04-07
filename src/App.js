@@ -140,7 +140,7 @@ function App() {
         {/* Right half with decorative elements */}
         <div className="hidden relative lg:flex h-full w-1/2 items-center justify-center bg-gray-200 overflow-hidden">
           <img src="/logo.png" alt="Logo" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-          {/* You can remove the inner elements if they are no longer needed */}
+
         </div>
 
       </div>
